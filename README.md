@@ -1,6 +1,6 @@
-# Rwanda Regions
+# Rwanda Administrative Regions
 
-Rwanda regions(Provinces, Districts, Sectors, Cells and Villages)
+Rwanda Rwanda Administrative Regions (Provinces, Districts, Sectors, Cells and Villages)
 
 ## Author
 
